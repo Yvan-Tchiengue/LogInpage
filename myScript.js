@@ -5,9 +5,9 @@ function check(){
     var pass=document.getElementById("pass").value;
     console.log(name);
     console.log(pass);
-    if( name=== "doni" && pass === "1234"){
+    if( name=== "yvan" && pass === "1234"){
 
-        document.location.href = "https://donchi-donald.github.io/Donald_CV1/#portfolio";
+        document.location.href = "https://yvan-tchiengue.github.io/Yvan-CV/";
 
         document.close();
     }else{
